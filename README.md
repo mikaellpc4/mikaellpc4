@@ -1,7 +1,7 @@
 ## 🚀 &nbsp;Sobre Mim
 
   ### Olá, eu sou Mikael!
-  - Estou buscando me tornar um dev full stack
+  - Estou buscando me tornar um Dev Web Full Stack
   - No momento estou me aprofundando em React e TS
 
 
