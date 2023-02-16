@@ -1,8 +1,9 @@
 ## 🚀 &nbsp;Sobre Mim
 
   ### Olá, eu sou Mikael!
-  - Estou buscando me tornar um Dev Web Full Stack
-  - No momento estou me aprofundando em React e TS
+  - Freelancer
+  - No momento estou estudando micro serviços
+
 
 
 ## 🛠 &nbsp;Tecnologias
@@ -16,6 +17,8 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
 </div>
 
 ## ⚙️ &nbsp;Status
