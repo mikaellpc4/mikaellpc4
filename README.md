@@ -2,7 +2,7 @@
 
   ### Olá, eu sou Mikael!
   - Freelancer
-  - No momento estou estudando micro serviços
+  - No momento estou estudando golang
 
 
 
