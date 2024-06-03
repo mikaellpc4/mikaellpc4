@@ -1,7 +1,6 @@
 ## 🚀 &nbsp;Sobre Mim
 
   ### Olá, eu sou Mikael!
-  - Freelancer
   - No momento estou estudando golang
 
 
